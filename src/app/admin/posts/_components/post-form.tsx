@@ -1,0 +1,1 @@
+// Este archivo contendrá un componente para el formulario de creación o edición de publicaciones.

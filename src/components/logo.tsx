@@ -1,0 +1,1 @@
+// Este archivo contiene el componente del logo de la aplicación.

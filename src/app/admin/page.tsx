@@ -1,0 +1,1 @@
+// Este archivo representa la página principal de la sección de administración.

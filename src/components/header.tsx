@@ -1,0 +1,1 @@
+// Este archivo contiene el componente del encabezado de la aplicación.

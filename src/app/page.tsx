@@ -1,0 +1,1 @@
+// Este archivo representa la página principal de la aplicación y está intencionalmente dejado en blanco.

@@ -1,0 +1,1 @@
+// Este archivo contiene un componente para eliminar publicaciones.
