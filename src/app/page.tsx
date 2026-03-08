@@ -1,1 +1,3 @@
-// Este archivo representa la página principal de la aplicación y está intencionalmente dejado en blanco.
+export default function Page() {
+  return null;
+}

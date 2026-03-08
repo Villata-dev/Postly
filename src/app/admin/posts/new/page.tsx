@@ -1,1 +1,3 @@
-// Este archivo está intencionalmente en blanco.
+export default function NewPostPage() {
+  return null;
+}
