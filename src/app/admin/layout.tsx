@@ -1,1 +1,7 @@
-// Este archivo está intencionalmente en blanco.
+export default function AdminLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return <>{children}</>;
+}

@@ -1,1 +1,3 @@
-// Este archivo representa la página principal de la sección de administración.
+export default function AdminPage() {
+  return null;
+}
