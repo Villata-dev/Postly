@@ -1,2 +1,5 @@
-/ my-nextjs-app / my-nextjs-app / src / app / globals.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* Este archivo contiene los estilos globales del proyecto. */
